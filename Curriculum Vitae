@@ -25,12 +25,13 @@
 
 <h2>Competências</h2>
 <hr>
-<ol>
+<ul>
     <li>JavaScript</li>
     <li>CSS</li>
     <li>HTML</li>
     <li>XML</li>
-</ol>
+</ul>
+<p><a href="#">Topo</a></p>
 <h2>Formação Acadêmica</h2>
 <hr>
 <h3><a href=" http://www.ifpb.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia da Paraiba</a></h3>
