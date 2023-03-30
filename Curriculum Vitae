@@ -35,6 +35,8 @@
 <h2>Formação Acadêmica</h2>
 <hr>
 <h3><a href=" http://www.ifpb.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia da Paraiba</a></h3>
-<p>Curso Superior em Tecnologia em Sistemas para Internet</p>
-<p>2010-2013</p>
+<dl>Curso Superior em Tecnologia em Sistemas para Internet
+    <dt>2010-2013</dt>
+</dl>
+
 </body>
