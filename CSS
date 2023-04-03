@@ -1,0 +1,26 @@
+h1,p{
+    font-family:"helvetica Nell", helvetica, arial, sans-serif
+}
+
+
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<meta charset = "UTF-8">
+<title>Documento</title>
+<link rel = "stylesheet" href = "style.css"/>
+<style>
+    p {
+        color: blue;
+    }
+    p, h1{
+        text-decoration: underline;
+    }
+</style>
+</head>
+<h1 style = 'text-align: center; color:rgb(226, 43, 165)'>Olá, CSS!</h1>
+<p> 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate
+reprehenderit fugiat, recusandae placeat quas et provident veniam impedit,
+commodi minus dignissimos, repellendus quaerat sint adipisci aut, debitis.
+Architecto minima, harum!</p>
