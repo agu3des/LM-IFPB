@@ -1,0 +1,28 @@
+h1,p,h2,h3,ul,dl{
+    font-family:"arial", arial, sans-serif; color: darkslategrey; font-size: '17px'
+}
+    h1 {
+    text-align: center; font-size:'30px'; color:darkblue;
+    }
+    h2 { 
+    font-size:'24px'; background-color: lightskyblue; color:darkblue;
+    }
+    a {
+        color: darkblue; text-decoration: none;
+    }
+    a h1, h1 a:visited{
+        color: white;
+    }
+    h2 a, h2 a:visited{
+        background: lightskyblue;
+    }
+    a:visited {
+        color:darkblue; 
+    }
+    h1:hover a, h2:hover a{
+        color: darkblue
+    }
+    a:hover,
+    a:focus {
+        text-decoration: underline;
+    }
